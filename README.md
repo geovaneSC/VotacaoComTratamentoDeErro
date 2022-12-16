@@ -1,2 +1,2 @@
 # VotacaoComTratamentoDeErro
-Programa de votação em java com tratamento de erro usando exceções.
+Programa de votação em java com tratamento de erro usando exceptions. 
